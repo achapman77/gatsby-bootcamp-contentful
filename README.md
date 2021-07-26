@@ -102,4 +102,31 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
+Tutorial: https://www.youtube.com/watch?v=8t0vNu2fCCM
+
+Timecodes:
+0:38 Creating a Gatsby Site
+14:50 Working with Gatsby Pages
+27:00 Linking Between Pages with Gatsby
+35:56 Creating Shared Page Components
+48:14 Creating Gatsby Page Layouts
+56:13 Styling Gatsby Projects
+1:06:49 Styling Gatsby with CSS Modules
+1:28:23 Gatsby Data with GraphQL
+1:47:12 GraphQL Playground
+1:51:32 Sourcing Content from the File System
+2:03:37 Working with Markdown Posts
+2:19:00 Generating Slugs for Posts
+2:35:14 Dynamically Generating Pages
+2:52:08 Rendering Post Data in Blog Template
+3:03:28 Adding Images to Posts
+3:21:19 Getting Started with Contentful
+3:38:29 Rendering Contentful Posts
+3:49:24 Dynamic Pages from Contentful
+4:10:18 404 Pages and React Helmet
+4:25:38 Deploying Your Gatsby Site
+
+progress
+3:04
+
 <!-- AUTO-GENERATED-CONTENT:END -->
