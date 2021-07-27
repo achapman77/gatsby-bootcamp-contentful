@@ -42,6 +42,7 @@ module.exports = {
               // [Optional] Exclude the following fields, use dot notation for nested fields
               // No fields are excluded by default
               exclude: ['featured.skip'], 
+            }
           },
           {
             resolve: 'gatsby-remark-images',
