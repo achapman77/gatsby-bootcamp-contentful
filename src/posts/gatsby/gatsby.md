@@ -3,7 +3,7 @@ title: "The Great Gatsby Post"
 date: "2021-07-23"
 ---
 
-I just launched a new bootcamp
+I just launched a new flashbang
 
 ![Flashbang](./flashbang.jpeg)
 
